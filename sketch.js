@@ -86,7 +86,7 @@ function setup() {
 
 function draw() {
 
-  background(255);
+  background(200);
   text("score = " + score, 500, 10)
   text("Armaan khokhar", 50, 20)
   if (gameState == PLAY) {
